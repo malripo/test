@@ -1,8 +1,7 @@
 # django_zero_to_instagram
 
-장고를 이용한 인스타그램 클론 코딩입니다.
+clone => 연결 해제 ==> 내 컴과 연결
 
-강의 유튜브를 기반으로 합니다.
 
 유튜브 : https://youtu.be/M8UPyeF5DfM  
 관련 blog : https://cholol.tistory.com/547
@@ -10,7 +9,6 @@
 ---
 
 ## 실행
-
 python 3.7 이상 버전 설치 후
 
 ```
